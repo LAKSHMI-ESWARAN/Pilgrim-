@@ -1,0 +1,85 @@
+*
+{
+ background-color: beige;
+} 
+.track a
+{
+  text-decoration: none;
+  color:black;
+}
+.box
+{
+  margin-left:35%;
+}
+#search
+{
+  width: 350px;
+  height:20px;
+  color: black;
+  border-color: black;
+}
+.box a
+{ 
+    text-decoration: none;
+    height: 20px;
+    width:300px;
+    border-style: solid;
+    border-color: black;
+    background-color: yellow;
+    padding: 3px;
+    color:black;
+}
+.a9
+{
+  display:flex;
+  margin-left:0px;
+  text-decoration: none;
+}
+.d13
+{
+  padding:20px;
+  margin-left: 0px;
+  list-style-type: none;
+  display:flex;
+  text-align: start;
+}
+.d13, a
+{
+  text-decoration: none;
+  color:black;
+}
+.d14
+{
+  margin-left:230px;
+  padding:20px;
+  text-align:start;
+
+}
+.d14, a 
+{
+  text-decoration: none;
+} 
+
+.d15
+{
+  padding:20px;
+  text-align: left;
+  margin-left: 20px;
+}
+.d15 button
+{
+  width:40px;
+  height:40px;
+} 
+.lbl
+{
+   margin-left:30px;
+}
+li
+{
+list-style: none;
+}
+.lbl
+{
+  margin-left: 40px;
+}
